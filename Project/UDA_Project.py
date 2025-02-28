@@ -5,7 +5,8 @@ import pandas as pd
 # Step 1: Load portfolio holdings CSV
 
 # Read the CSV into a DataFrame
-portfolio_df = pd.read_csv("my_portfolio4.csv")
+portfolio_df = pd.read_csv("Project/my_portfolio4.csv")
+
 
 
 # Preview the data
