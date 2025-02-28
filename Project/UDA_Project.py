@@ -3,10 +3,10 @@
 import pandas as pd
 
 # Step 1: Load portfolio holdings CSV
-csv_path = r"C:\Users\ndhlo\Desktop\Mod 3\UDA\my_uda_work\Project\my_portfolio4.csv"
 
 # Read the CSV into a DataFrame
-portfolio_df = pd.read_csv(csv_path)
+portfolio_df = pd.read_csv("my_portfolio4.csv")
+
 
 # Preview the data
 print("Portfolio Data:")
