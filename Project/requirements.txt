@@ -2,3 +2,4 @@ pandas
 numpy
 requests
 statsmodels
+streamlit-autorefresh
